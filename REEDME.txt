@@ -1,0 +1,5 @@
+El proyecto es un juego 
+Archivos :
+    -> alien_invasion: muestra las configuraciones principales 
+    -> ship: configuracion y diseño del ship 
+    -> settings: principales configuraciones
